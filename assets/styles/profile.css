@@ -1,0 +1,12 @@
+#wrapper {
+  margin-top: 50px; }
+
+body {
+  color: #777; }
+
+.profile .related-content {
+  text-align: center; }
+  .profile .related-content .portfolio-item {
+    margin: auto; }
+
+/*# sourceMappingURL=profile.css.map */
